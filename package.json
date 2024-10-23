@@ -1,6 +1,6 @@
 {
-  "name": "koa.io",
-  "version": "0.0.3",
+  "name": "mykoa.io",
+  "version": "0.1.0",
   "description": "realtime web framework combine koa and socket.io",
   "main": "lib/application.js",
   "scripts": {
